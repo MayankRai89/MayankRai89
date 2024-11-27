@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on your project based on software developer...
 - 📫 How to reach me my email id is raimayank245@gmail.com...
 - 🌐 Connect with me via --
-  @mayankrai89, @mayank98018
+- instagram, twiter, linkedin
+  @mayankrai89, @mayank98018, linkedin.com/in/mayank-rai-4509581b0
 
 <!---
 MayankRai89/MayankRai89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
